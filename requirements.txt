@@ -1,1 +1,2 @@
+python == 3.8.8
 streamlit == 0.86.0
