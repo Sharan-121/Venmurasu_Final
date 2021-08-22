@@ -1,0 +1,43 @@
+File 22
+AIscore - 12.5520949323
+Gscore - 4.3291404094
+
+File 23
+AIscore - 9.2366716239
+Gscore - 5.5086336647
+
+File 24
+AIscore - 8.7663537944
+Gscore - 5.5488030438
+
+File 25
+AIscore - 8.0910895196
+Gscore - 6.3795514817
+
+File 26
+AIscore - 6.0639248459
+Gscore - 6.2636153077
+
+File 27
+AIscore - 8.3077738101
+Gscore - 5.4586633117
+
+File 28
+AIscore - 8.9566962699
+Gscore - 6.023255213
+
+File 29
+AIscore - 10.1245218033
+Gscore - 9.5862504336
+
+File 30
+AIscore - 10.6218278182
+Gscore - 5.9720760755
+
+File 31
+AIscore - 6.8141839322
+Gscore - 4.5305431969
+
+Overall Average Score
+AIscore - 8.953513834979999
+Gscore - 5.9600532138
