@@ -1,6 +1,6 @@
 ### Venmurasu Programming Contest
 
-* Developed a basic Web Application for Venmurasu Programming Contest(2021).
+* Developed a basic Web Application for Venmurasu Programming Contest(2021-22).
 
 * Used Streamlit Library in python and integrated all the required files to the Application.
 
